@@ -1,5 +1,7 @@
 # Indxs - The Open-Source Package Index  
 
+![Indxs Logo](assets/images/Indxs-logo.jpg)
+
 **_"From Developers, For Developers."_**  
 
 Welcome to **Indxs**, an open-source platform designed to help developers discover, explore, and contribute to the best packages and libraries for different programming languages and frameworks.  
