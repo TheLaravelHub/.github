@@ -1,61 +1,113 @@
-# Indxs - The Open-Source Package Index  
+# Laravel Hub – The Central Community for Laravel Developers
 
-![Indxs Logo](assets/images/Indxs-logo.jpg)
+![Laravel Hub Logo](assets/images/og-image.png)
 
 **_"From Developers, For Developers."_**  
 
-Welcome to **Indxs**, an open-source platform designed to help developers discover, explore, and contribute to the best packages and libraries for different programming languages and frameworks.  
+[Laravel Hub](https://laravel-hub.com) is an open-source platform and community designed to help Laravel developers discover, explore, and contribute to the best packages, blog posts, tools, and resources in the Laravel ecosystem.
 
-## 🌍 Mission  
+Laravel Hub brings together curated content, developer tools, and user-driven posts — all in one central platform for Laravel professionals.
 
-At **Indxs**, our mission is to create a comprehensive and community-driven index of open-source packages. We aim to:  
+---
 
-- Provide an easy way for developers to find and explore packages/libraries.  
-- Support open-source maintainers by increasing visibility for their packages.  
-- Foster collaboration through community contributions and reviews.  
-- Ensure a clean, user-friendly experience for package discovery.  
+## Mission
 
-## 🛠️ Tech Stack  
+Our mission at Laravel Hub is to build the most comprehensive and community-focused hub for Laravel developers. We aim to:
 
-Indxs is built using modern web technologies:  
+- Help developers discover top Laravel & PHP packages  
+- Curate high-quality articles, videos, podcasts, and news from trusted sources  
+- Give developers a place to publish posts, share knowledge, and grow visibility  
+- Enable users to follow topics, bookmark content, and engage in discussions  
+- Foster collaboration, learning, and contribution in the Laravel ecosystem  
 
-- **Laravel** – Backend API and package management  
-- **Inertia.js** – Bridging Laravel and React  
-- **React.js** – Frontend user experience  
-- **Tailwind CSS** – Styling with utility-first approach  
-- **TypeScript** – Ensuring type safety and scalability  
+---
 
-## 🔓 License  
+## Features
 
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it under the same license.  
+Laravel Hub is more than a package index — it's a Laravel developer hub. It includes:
 
-## 👤 About the Author  
+- **Package Directory** – Searchable listings of Laravel and PHP packages  
+- **Multi-format Post Feed** – Community posts, videos, podcasts, tutorials, tests  
+- **User Accounts** – Submit packages and posts, comment, reply, bookmark  
+- **Topics & Following** – Follow topics or content types that matter to you  
+- **Admin Blogging System** – Markdown-based blog posts for SEO and updates  
+- **GitHub Integration** – Fetch data from GitHub repositories with README rendering  
+- **Modern UI/UX** – Built for performance and clarity with Tailwind and React  
 
-**Indxs** is created and maintained by **[Muhammed Elfeqy](https://github.com/thefeqy)**, a software engineer passionate about building scalable and open-source projects.  
+---
 
-## 🤝 Contributing  
+## Tech Stack
 
-We welcome contributions from developers around the world! If you’d like to:  
+Laravel Hub is built with modern, scalable tools:
 
-- Submit a package  
-- Improve the platform  
-- Report bugs or suggest features  
+- **Laravel** – Backend API & data layer  
+- **Inertia.js v2** – Laravel + React bridge  
+- **React.js + TypeScript** – Interactive and typed frontend  
+- **Tailwind CSS + ShadCN UI** – Utility-first design system with prebuilt UI components  
+- **MySQL or PostgreSQL** – Flexible database support  
+- **GitHub Actions** – Continuous Integration & Formatting  
+- **Laravel Breeze / Sanctum** – Authentication & session management  
 
-Feel free to fork the repo, create issues, and submit pull requests.  
+---
 
-## 💙 Show Your Support  
+## License
 
-If you find **Indxs** useful, consider:  
+This project is open-source under the **MIT License**.  
+Feel free to use, extend, or build on top of it for your projects.
 
-- ⭐ Starring the repository on GitHub  
-- Sharing it with fellow developers  
-- Contributing to the project  
+---
 
-## 📩 Contact  
+## About the Author
 
-For discussions and inquiries, reach out via:  
+**Laravel Hub** is created and maintained by [**Muhammed Elfeqy**](https://github.com/thefeqy), a software engineer focused on Laravel, open-source contribution, and developer tools.
 
-- GitHub Issues: [Indxs Issues](https://github.com/indxs/indxs/issues)  
-- Twitter/X: [@thefeqy](https://twitter.com/thefeqy)  
+---
 
-🚀 **Let's build the best open-source package index together!**  
+## Contributing
+
+We welcome contributions to Laravel Hub from the community.
+
+To contribute:
+
+1. Fork the repository  
+2. Create a new branch: `feature/your-feature-name`  
+3. Make your changes  
+4. **Before committing or pushing**, run the formatter:
+
+```sh
+composer run format
+````
+
+5. **Ensure all test cases pass**:
+
+```sh
+./vendor/bin/phpunit
+```
+
+6. Push your branch and open a Pull Request on GitHub
+
+We appreciate your help in building the Laravel Hub platform.
+
+---
+
+## Show Your Support
+
+If you find Laravel Hub helpful:
+
+* Star the repository on GitHub
+* Share [laravel-hub.com](https://laravel-hub.com) with fellow developers
+* Submit your own packages, tools, or blog posts
+* Join the conversation and help shape the Laravel community hub
+
+---
+
+## Contact & Community
+
+* GitHub Issues: [Submit issues or suggestions](https://github.com/laravel-hub/laravel-hub/issues)
+* GitHub Discussions: [Join the discussion](https://github.com/laravel-hub/laravel-hub/discussions)
+* Twitter/X: [@thelaravelhub](https://twitter.com/thelaravelhub)
+* Email: [thefeqy@gmail.com](mailto:thefeqy@gmail.com)
+
+---
+
+**Laravel Hub – Your hub for all Laravel-related things.**
